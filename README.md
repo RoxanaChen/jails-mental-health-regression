@@ -16,6 +16,10 @@ Six public datasets, filtered to California counties, averaged across available 
 | County codes | [CA Health and Human Services](https://data.chhs.ca.gov/dataset/licensed-mental-health-rehabilitation-centers-mhrc-and-psychiatric-health-facilities-phf/resource/ff6478dd-200c-4c44-a545-d32eac14e9fb) | Matching counties across datasets |
 
 ## Methods
+* Cleaned and merged datasets
+* EDA and visualization: explored variable relationships and regional patterns across CA counties with plots such as a correlation heatmap and choropleth maps
+* Compared simple and multiple OLS regression models by comparing the adjusted R^2 of each
+* **Tools:** pandas, numpy, matplotlib, seaborn, geopandas, statsmodels
 
 ## Key Findings
 
