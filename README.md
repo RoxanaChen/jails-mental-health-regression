@@ -22,6 +22,9 @@ Six public datasets, filtered to California counties, averaged across available 
 * **Tools:** pandas, numpy, matplotlib, seaborn, geopandas, statsmodels
 
 ## Key Findings
+* Mental health facility count was negatively associated with incarceration rate on its own (statistically significant)
+* After adding income and unemployment, facility count was no longer significant, and median income was the strongest predictor
+* Socioeconomic factors appear to outweigh facility count alone in explaining incarceration rates
 
 ## Files
 - `data/` - data folder
